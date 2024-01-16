@@ -1,0 +1,12 @@
+[
+	{
+		"modid": "SwingAnimationsControl",
+		"name": "SwingAnimationsControl",
+		"description": "Provides control over how and when hand swinging animations are sent",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "",
+		"updateUrl": "",
+		"authorList": ["WonderfulPanic"]
+	}
+]
